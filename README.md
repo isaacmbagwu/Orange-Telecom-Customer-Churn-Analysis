@@ -96,7 +96,9 @@ This project shows how data analytics can help businesses better understand thei
 By turning raw telecom data into a clear visual story, the dashboard helps stakeholders quickly see:
 
 • Why customers are leaving
+
 • Which customers are most at risk
+
 • Where the company should focus its retention efforts
 
 # 👤 Author
