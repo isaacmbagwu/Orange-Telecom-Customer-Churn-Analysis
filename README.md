@@ -1,4 +1,4 @@
-📡 Orange Telecom Customer Churn Analysis 
+📡# Orange Telecom Customer Churn Analysis 
 
 This project explores customer churn behavior in a telecom company using Microsoft Power BI.
 
@@ -83,4 +83,5 @@ By turning raw telecom data into a clear visual story, the dashboard helps stake
 👤 Author
 
 Isaac Mbagwu
+
 Data Analyst | Mechatronics Engineer|Smart Manufacturing | Data Analytics and Data-Driven Systems
