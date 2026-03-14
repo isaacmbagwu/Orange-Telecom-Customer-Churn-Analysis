@@ -1,4 +1,5 @@
 📡 Orange Telecom Customer Churn Analysis
+
 This project explores customer churn behavior in a telecom company using Microsoft Power BI.
 
 The goal of the analysis was to understand why customers leave, identify patterns in customer behavior, and present the insights through an interactive dashboard that decision-makers can easily interpret.
