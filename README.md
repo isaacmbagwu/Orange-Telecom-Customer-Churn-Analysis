@@ -55,7 +55,7 @@ The folder includes:
 
 ![Dashboard Preview](Dashboard%201.png)
 
-![Dashboard Preview](Dashboard%201.png)
+![Dashboard Preview](Dashboard%202.png)
 
 # 🔎 Key Insights
 
