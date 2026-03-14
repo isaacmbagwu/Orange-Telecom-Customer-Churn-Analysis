@@ -33,6 +33,24 @@ Some of the key information included in the dataset:
 
 These variables helped uncover patterns and identify the main drivers of customer churn.
 
+# 📂 Project Files
+
+Due to file size limitations on GitHub, the full project files are hosted on Google Drive.
+
+You can access them here:
+
+🔗 **Google Drive Folder:**  
+[View Project Files](https://drive.google.com/drive/folders/1qjsnjT7ZSjr7EKneuzyfcYgQ4elMgLT7)
+
+The folder includes:
+
+• Power BI Dashboard (.pbix)  
+• Dataset used for analysis  
+• Project presentation slides  
+• Dashboard screenshots
+
+
+
 📸 Dashboard Preview
 
 (Insert your dashboard screenshot here)
