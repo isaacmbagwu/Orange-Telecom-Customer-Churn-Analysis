@@ -53,9 +53,9 @@ The folder includes:
 
 # 📸 Dashboard Preview
 
-(Insert your dashboard screenshot here)
-
 ![Dashboard Preview](Dashboard%201.png)
+
+
 🔎 Key Insights
 
 After analyzing the dataset, a few interesting patterns stood out:
