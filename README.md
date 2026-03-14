@@ -6,7 +6,7 @@ The goal of the analysis was to understand why customers leave, identify pattern
 
 Rather than simply creating charts, this project focused on telling a clear story with the data and highlighting areas where the company can improve customer retention.
 
-📌 Project Objectives
+# 📌 Project Objectives
 
 This analysis was built to answer a few important business questions:
 
@@ -17,7 +17,7 @@ This analysis was built to answer a few important business questions:
 • How does customer tenure and usage patterns affect churn risk?
 • Which customer segments should the company prioritize for retention?
 
-📊 Dataset Overview
+# 📊 Dataset Overview
 
 The dataset contains telecom customer records, where each row represents an individual customer.
 
@@ -39,7 +39,7 @@ Due to file size limitations on GitHub, the full project files are hosted on Goo
 
 You can access them here:
 
-🔗 **Google Drive Folder:**  
+# 🔗 **Google Drive Folder:**  
 [View Project Files](https://drive.google.com/drive/folders/1qjsnjT7ZSjr7EKneuzyfcYgQ4elMgLT7)
 
 The folder includes:
@@ -51,11 +51,11 @@ The folder includes:
 
 
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 (Insert your dashboard screenshot here)
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard%201.png)
 🔎 Key Insights
 
 After analyzing the dataset, a few interesting patterns stood out:
@@ -72,7 +72,7 @@ Frequent support interactions often indicate dissatisfaction.
 • Churn varies across different states
 Some geographic regions showed noticeably higher churn rates than others.
 
-💡 Recommendations
+# 💡 Recommendations
 
 Based on the insights from the analysis, a few actions could help reduce churn:
 
@@ -82,13 +82,13 @@ Based on the insights from the analysis, a few actions could help reduce churn:
 • Investigate states with higher churn for potential service issues
 • Strengthen customer retention strategies for high-usage customers
 
-🛠 Tools Used
+# 🛠 Tools Used
 
 • Power BI – Dashboard development and visualization
 • Power Query – Data cleaning and transformation
 • DAX – Calculating KPIs and analytical measures
 
-🚀 Why This Project Matters
+# 🚀 Why This Project Matters
 
 This project shows how data analytics can help businesses better understand their customers.
 
@@ -98,7 +98,7 @@ By turning raw telecom data into a clear visual story, the dashboard helps stake
 • Which customers are most at risk
 • Where the company should focus its retention efforts
 
-👤 Author
+# 👤 Author
 
 Isaac Mbagwu
 
