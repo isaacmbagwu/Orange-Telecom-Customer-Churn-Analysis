@@ -1,4 +1,4 @@
-📡** Telecom Customer Churn Analysis Dashboard**
+#📡** Telecom Customer Churn Analysis Dashboard**
 
 This project explores customer churn patterns in a telecom company using Microsoft Power BI.
 
