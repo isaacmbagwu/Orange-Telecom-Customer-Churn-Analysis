@@ -1,4 +1,4 @@
-📡 Telecom Customer Churn Analysis Dashboard
+📡** Telecom Customer Churn Analysis Dashboard**
 
 This project explores customer churn patterns in a telecom company using Microsoft Power BI.
 
@@ -6,7 +6,7 @@ The goal was to analyze customer behavior, identify the key drivers of churn, an
 
 Rather than just creating charts, the focus of this project was to tell a clear business story with the data and highlight areas where the company could improve customer retention.
 
-📌 Project Objectives
+📌** Project Objectives**
 
 The analysis focused on answering several key business questions:
 
@@ -17,7 +17,7 @@ The analysis focused on answering several key business questions:
 • How does customer tenure and usage behavior affect churn risk?
 • What segments of customers should the company prioritize for retention?
 
-📂 Dataset Overview
+📂** Dataset Overview**
 
 The dataset contains customer records from a telecom company.
 
@@ -33,11 +33,11 @@ Each row represents an individual customer and includes information about:
 
 These variables were used to uncover patterns and identify the main drivers behind customer churn.
 
-📊 Dashboard Features
+📊 **Dashboard Features**
 
 The Power BI dashboard includes several analytical views designed for decision-makers:
 
-📈 Executive KPI Overview
+📈 **Executive KPI Overview**
 Shows the most important business metrics including churn rate and revenue per user.
 
 🗺 Churn Rate by State
@@ -59,7 +59,7 @@ Shows how churn risk changes as customers stay longer with the company.
 ⚠ Call Frequency Risk Segmentation
 Segments customers into low, medium, and high call-frequency groups to identify risk levels.
 
-🔍 Key Insights
+🔍 **Key Insights**
 
 Several important patterns emerged from the analysis:
 
@@ -79,7 +79,7 @@ Churn varies across geographic regions
 
 Some states recorded significantly higher churn rates than others, suggesting possible service quality or market differences.
 
-💡 Business Recommendations
+💡** Business Recommendations**
 
 Based on the insights from the dashboard, the following actions could help reduce churn:
 
@@ -89,13 +89,13 @@ Based on the insights from the dashboard, the following actions could help reduc
 • Investigate high-churn regions for potential service problems
 • Strengthen retention strategies for high-usage customers
 
-🛠 Tools Used
+🛠 **Tools Used**
 
 • Power BI – Dashboard development and visualization
 • Power Query – Data cleaning and transformation
 • DAX – KPI calculations and measures
 
-🚀 Project Outcome
+🚀** Project Outcome**
 
 This project demonstrates how data visualization can transform raw telecom data into actionable business insights.
 
