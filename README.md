@@ -1,154 +1,86 @@
-📡 Telecom Customer Churn Analysis Dashboard
+📡 Orange Telecom Customer Churn Analysis 
 
-This project explores customer churn patterns in a telecom company using Microsoft Power BI.
+This project explores customer churn behavior in a telecom company using Microsoft Power BI.
 
-The goal of the analysis was to understand why customers leave, identify the key drivers of churn, and present those insights through a clear and interactive dashboard.
+The goal of the analysis was to understand why customers leave, identify patterns in customer behavior, and present the insights through an interactive dashboard that decision-makers can easily interpret.
 
-Rather than simply creating charts, the focus was to tell a meaningful business story with the data and highlight areas where the company can improve customer retention and service strategy.
+Rather than simply creating charts, this project focused on telling a clear story with the data and highlighting areas where the company can improve customer retention.
 
 📌 Project Objectives
 
-This analysis was designed to answer several important business questions:
+This analysis was built to answer a few important business questions:
 
-What is the overall customer churn rate?
+• What is the overall churn rate of customers?
+• Do customer service interactions influence churn behavior?
+• Which service plans are associated with higher churn?
+• Are there geographic regions where churn is higher?
+• How does customer tenure and usage patterns affect churn risk?
+• Which customer segments should the company prioritize for retention?
 
-Do customer service interactions influence churn behavior?
+📊 Dataset Overview
 
-Which service plans are associated with higher churn?
+The dataset contains telecom customer records, where each row represents an individual customer.
 
-Are there geographic regions with higher churn rates?
+Some of the key information included in the dataset:
 
-How does customer tenure and usage behavior affect churn risk?
+• Customer usage patterns
+• Service plans (International plan and Voicemail plan)
+• Number of customer service calls
+• Geographic location (State)
+• Call activity and charges
+• Customer tenure
+• Customer churn status
 
-Which customer segments should the company prioritize for retention?
+These variables helped uncover patterns and identify the main drivers of customer churn.
 
-📂 Dataset Overview
+📸 Dashboard Preview
 
-The dataset contains telecom customer records where each row represents an individual customer.
+(Insert your dashboard screenshot here)
 
-Key variables included in the dataset:
+![Dashboard Preview](dashboard.png)
+🔎 Key Insights
 
-Customer usage patterns
+After analyzing the dataset, a few interesting patterns stood out:
 
-Service plans (International Plan, Voice Mail Plan)
+• Customer service calls strongly influence churn
+Customers who contacted support frequently were significantly more likely to leave the company.
 
-Customer service interactions
+• International plan users showed higher churn
+Customers subscribed to the international plan had a churn rate of 43.7%, much higher than the overall average.
 
-Geographic location (State)
+• High service-call customers represent the highest risk group
+Frequent support interactions often indicate dissatisfaction.
 
-Call activity and charges
+• Churn varies across different states
+Some geographic regions showed noticeably higher churn rates than others.
 
-Customer tenure
+💡 Recommendations
 
-Customer churn status
+Based on the insights from the analysis, a few actions could help reduce churn:
 
-These variables were analyzed to uncover patterns, risk segments, and behavioral drivers of churn.
-
-📊 Dashboard Features
-
-The Power BI dashboard provides several analytical views designed for business stakeholders and decision-makers.
-
-📈 Executive KPI Overview
-
-Displays key business metrics such as:
-
-Overall churn rate
-
-Total revenue
-
-Average revenue per user
-
-Customer distribution
-
-🗺 Churn Rate by State
-
-A geographic view highlighting states with the highest churn rates, helping identify potential regional service issues or market differences.
-
-📞 Customer Service Interaction Analysis
-
-Examines the relationship between number of customer service calls and churn behavior, helping identify dissatisfied customers.
-
-📱 Plan Impact Analysis
-
-Analyzes churn differences between customers with and without:
-
-International plans
-
-Voice mail plans
-
-📊 Customer Lifecycle (Tenure Analysis)
-
-Shows how customer churn risk changes over time, helping the company understand retention patterns across the customer lifecycle.
-
-⚠ Call Frequency Risk Segmentation
-
-Segments customers into low, medium, and high call-frequency groups to highlight potential churn risk categories.
-
-🔍 Key Insights
-
-Several important patterns emerged from the analysis:
-
-Customer service calls are strongly linked to churn
-
-Customers who frequently contacted support were significantly more likely to leave the company.
-
-International plan users show higher churn
-
-Customers with international plans had a churn rate of 43.7%, much higher than the overall churn rate.
-
-High service-call customers represent the largest risk segment
-
-Customers who contacted customer service multiple times had the highest probability of churn.
-
-Churn varies across geographic regions
-
-Some states recorded noticeably higher churn rates, suggesting possible service quality issues or regional competition.
-
-💡 Business Recommendations
-
-Based on the insights from the dashboard, several actions could help reduce churn:
-
-Improve customer support response times and issue resolution
-
-Review international plan pricing and service features
-
-Identify high-risk customers early based on frequent support interactions
-
-Investigate high-churn regions to identify potential service issues
-
-Develop targeted retention strategies for high-usage customers
+• Improve customer service response and issue resolution times
+• Review international plan pricing and service value
+• Identify high-risk customers early based on support interactions
+• Investigate states with higher churn for potential service issues
+• Strengthen customer retention strategies for high-usage customers
 
 🛠 Tools Used
 
-Microsoft Power BI — Dashboard development and visualization
+• Power BI – Dashboard development and visualization
+• Power Query – Data cleaning and transformation
+• DAX – Calculating KPIs and analytical measures
 
-Power Query — Data cleaning and transformation
+🚀 Why This Project Matters
 
-DAX (Data Analysis Expressions) — KPI calculations and measures
+This project shows how data analytics can help businesses better understand their customers.
 
-📂 Access Full Project Files
+By turning raw telecom data into a clear visual story, the dashboard helps stakeholders quickly see:
 
-Some project files (such as the Power BI dashboard and presentation slides) are too large to upload directly to GitHub.
+• Why customers are leaving
+• Which customers are most at risk
+• Where the company should focus its retention efforts
 
-To make everything accessible, I’ve organized the complete project materials in a Google Drive folder.
+👤 Author
 
-🔗 View the full project files here:
-Open Project Folder
-
-Inside the folder you will find:
-
-Power BI Dashboard (.pbix)
-
-Dataset used for the analysis
-
-Project presentation slides
-
-Dashboard screenshots and supporting files
-
-🚀 Project Outcome
-
-This project demonstrates how data visualization can transform raw telecom data into actionable business insights.
-
-The dashboard enables stakeholders to quickly understand why customers churn, which segments are at risk, and where the company should focus its retention efforts.
-
-⭐ If you found this project interesting, feel free to star the repository.
+Isaac Mbagwu
+Data Analyst | Mechatronics Engineer|Smart Manufacturing | Data Analytics and Data-Driven Systems
