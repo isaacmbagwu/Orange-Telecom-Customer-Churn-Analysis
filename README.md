@@ -11,10 +11,15 @@ Rather than simply creating charts, this project focused on telling a clear stor
 This analysis was built to answer a few important business questions:
 
 • What is the overall churn rate of customers?
+
 • Do customer service interactions influence churn behavior?
+
 • Which service plans are associated with higher churn?
+
 • Are there geographic regions where churn is higher?
+
 • How does customer tenure and usage patterns affect churn risk?
+
 • Which customer segments should the company prioritize for retention?
 
 # 📊 Dataset Overview
@@ -24,11 +29,17 @@ The dataset contains telecom customer records, where each row represents an indi
 Some of the key information included in the dataset:
 
 • Customer usage patterns
+
 • Service plans (International plan and Voicemail plan)
+
 • Number of customer service calls
+
 • Geographic location (State)
+
 • Call activity and charges
+
 • Customer tenure
+
 • Customer churn status
 
 These variables helped uncover patterns and identify the main drivers of customer churn.
@@ -45,8 +56,11 @@ You can access them here:
 The folder includes:
 
 • Power BI Dashboard (.pbix)  
+
 • Dataset used for analysis  
+
 • Project presentation slides  
+
 • Dashboard screenshots
 
 
@@ -78,9 +92,13 @@ Some geographic regions showed noticeably higher churn rates than others.
 Based on the insights from the analysis, a few actions could help reduce churn:
 
 • Improve customer service response and issue resolution times
+
 • Review international plan pricing and service value
-• Identify high-risk customers early based on support interactions
+
+• Identify high-risk customers early based on support interactions\
+
 • Investigate states with higher churn for potential service issues
+
 • Strengthen customer retention strategies for high-usage customers
 
 # 🛠 Tools Used
