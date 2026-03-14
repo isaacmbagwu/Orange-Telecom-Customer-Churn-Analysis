@@ -55,8 +55,9 @@ The folder includes:
 
 ![Dashboard Preview](Dashboard%201.png)
 
+![Dashboard Preview](Dashboard%201.png)
 
-🔎 Key Insights
+# 🔎 Key Insights
 
 After analyzing the dataset, a few interesting patterns stood out:
 
